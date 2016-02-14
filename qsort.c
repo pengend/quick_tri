@@ -9,7 +9,6 @@ void swap(int tab[], int a, int b)
   tab[b] = tmp;
 }
 
-
 void quick_sort(int tab[], int start, int end)
 {
   int pivot;
