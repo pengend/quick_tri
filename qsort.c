@@ -8,6 +8,7 @@ void swap(int tab[], int a, int b)
   tab[a] = tab[b];
   tab[b] = tmp;
 }
+trolll
 
 void quick_sort(int tab[], int start, int end)
 {
