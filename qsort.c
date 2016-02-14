@@ -10,6 +10,7 @@ void swap(int tab[], int a, int b)
 }
 trolll
 
+
 void quick_sort(int tab[], int start, int end)
 {
   int pivot;
